@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-01 09:50">
+<yml_catalog date="2026-10-01 11:50">
   <shop>
     <name>BETORI</name>
     <company>BETORI Store</company>
@@ -6768,14 +6768,14 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_12-37-27.jpg?v=1787305071</picture>
         <vendor>BETORI</vendor>
         <article>LO36BLACK</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>BETORI Лофери чорні натуральна замша жіночі розмір 36</name_ua>
         <name>BETORI Лофери чорні натуральна замша жіночі розмір 36</name>
         <description_ua><![CDATA[Нова колекція лоферів🖤Позачасова база, яка легко поєднується з будь-яким гардеробом. Мінімалістичний дизайн, комфорт і стиль на кожен день. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 2090 грн]]></description_ua>
         <description><![CDATA[Нова колекція лоферів🖤Позачасова база, яка легко поєднується з будь-яким гардеробом. Мінімалістичний дизайн, комфорт і стиль на кожен день. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 2090 грн]]></description>
         <param name="Розмір">36</param>
       </offer>
-      <offer id="49047172218980" available="false">
+      <offer id="49047172218980" available="true">
         <url>https://betoristore.com.ua/products/%D0%BB%D0%BE%D1%84%D0%B5%D1%80%D0%B8-%D1%87%D0%BE%D1%80%D0%BD%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
         <price>2090.00</price>
         <currencyId>UAH</currencyId>
@@ -6784,14 +6784,14 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_12-37-27.jpg?v=1787305071</picture>
         <vendor>BETORI</vendor>
         <article>LO37BLACK</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>BETORI Лофери чорні натуральна замша жіночі розмір 37</name_ua>
         <name>BETORI Лофери чорні натуральна замша жіночі розмір 37</name>
         <description_ua><![CDATA[Нова колекція лоферів🖤Позачасова база, яка легко поєднується з будь-яким гардеробом. Мінімалістичний дизайн, комфорт і стиль на кожен день. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 2090 грн]]></description_ua>
         <description><![CDATA[Нова колекція лоферів🖤Позачасова база, яка легко поєднується з будь-яким гардеробом. Мінімалістичний дизайн, комфорт і стиль на кожен день. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 2090 грн]]></description>
         <param name="Розмір">37</param>
       </offer>
-      <offer id="49047172251748" available="false">
+      <offer id="49047172251748" available="true">
         <url>https://betoristore.com.ua/products/%D0%BB%D0%BE%D1%84%D0%B5%D1%80%D0%B8-%D1%87%D0%BE%D1%80%D0%BD%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
         <price>2090.00</price>
         <currencyId>UAH</currencyId>
@@ -6800,7 +6800,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_12-37-27.jpg?v=1787305071</picture>
         <vendor>BETORI</vendor>
         <article>LO38BLACK</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>BETORI Лофери чорні натуральна замша жіночі розмір 38</name_ua>
         <name>BETORI Лофери чорні натуральна замша жіночі розмір 38</name>
         <description_ua><![CDATA[Нова колекція лоферів🖤Позачасова база, яка легко поєднується з будь-яким гардеробом. Мінімалістичний дизайн, комфорт і стиль на кожен день. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 2090 грн]]></description_ua>
@@ -6816,7 +6816,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_12-37-27.jpg?v=1787305071</picture>
         <vendor>BETORI</vendor>
         <article>LO39BLACK</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>11</stock_quantity>
         <name_ua>BETORI Лофери чорні натуральна замша жіночі розмір 39</name_ua>
         <name>BETORI Лофери чорні натуральна замша жіночі розмір 39</name>
         <description_ua><![CDATA[Нова колекція лоферів🖤Позачасова база, яка легко поєднується з будь-яким гардеробом. Мінімалістичний дизайн, комфорт і стиль на кожен день. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 2090 грн]]></description_ua>
@@ -6832,14 +6832,14 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_12-37-27.jpg?v=1787305071</picture>
         <vendor>BETORI</vendor>
         <article>LO40BLACK</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>BETORI Лофери чорні натуральна замша жіночі розмір 40</name_ua>
         <name>BETORI Лофери чорні натуральна замша жіночі розмір 40</name>
         <description_ua><![CDATA[Нова колекція лоферів🖤Позачасова база, яка легко поєднується з будь-яким гардеробом. Мінімалістичний дизайн, комфорт і стиль на кожен день. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 2090 грн]]></description_ua>
         <description><![CDATA[Нова колекція лоферів🖤Позачасова база, яка легко поєднується з будь-яким гардеробом. Мінімалістичний дизайн, комфорт і стиль на кожен день. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 2090 грн]]></description>
         <param name="Розмір">40</param>
       </offer>
-      <offer id="49047172350052" available="false">
+      <offer id="49047172350052" available="true">
         <url>https://betoristore.com.ua/products/%D0%BB%D0%BE%D1%84%D0%B5%D1%80%D0%B8-%D1%87%D0%BE%D1%80%D0%BD%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
         <price>2090.00</price>
         <currencyId>UAH</currencyId>
@@ -6848,7 +6848,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_12-37-27.jpg?v=1787305071</picture>
         <vendor>BETORI</vendor>
         <article>LO41BLACK</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>BETORI Лофери чорні натуральна замша жіночі розмір 41</name_ua>
         <name>BETORI Лофери чорні натуральна замша жіночі розмір 41</name>
         <description_ua><![CDATA[Нова колекція лоферів🖤Позачасова база, яка легко поєднується з будь-яким гардеробом. Мінімалістичний дизайн, комфорт і стиль на кожен день. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 2090 грн]]></description_ua>
@@ -11006,7 +11006,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1232.png?v=1789736108</picture>
         <vendor>BETORI</vendor>
         <article>LOFCL38L</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Лофери класичні (нат. лакована шкіра) розмір 38</name_ua>
         <name>Лофери класичні (нат. лакована шкіра) розмір 38</name>
         <description_ua><![CDATA[Ідеальні лофери - знайдено!🔥Виготовлені з натуральної лакованої шкіри.Матеріал чудово тримає форму і при тому не твердий, що гарантує ніжкам комфорт • розміри: 35-41 (розмір в розмір)• матеріал: натуральна лакована шкіра• ціна: 2200 грн]]></description_ua>
