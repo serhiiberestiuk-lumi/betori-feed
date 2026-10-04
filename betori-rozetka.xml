@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-04 13:52">
+<yml_catalog date="2026-10-04 15:52">
   <shop>
     <name>BETORI</name>
     <company>BETORI Store</company>
@@ -2516,7 +2516,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_5799_1.jpg?v=1744189804</picture>
         <vendor>BETORI</vendor>
         <article>KECH40</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>BETORI Кеди замшеві шоколадні жіночі розмір 40</name_ua>
         <name>BETORI Кеди замшеві шоколадні жіночі розмір 40</name>
         <description_ua><![CDATA[Трендова модель, що легко інтегрується у будь-який гардероб. Розміри: 36-41 Розмір в розмір Матеріал: еко замш Ціна: 1690 грн]]></description_ua>
@@ -6529,7 +6529,7 @@
         <description><![CDATA[Нова колекція лоферів🤎Позачасова база, яка легко поєднується з будь-яким гардеробом. Мінімалістичний дизайн, комфорт і стиль на кожен день. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 2090 грн]]></description>
         <param name="Розмір">39</param>
       </offer>
-      <offer id="49047196860516" available="true">
+      <offer id="49047196860516" available="false">
         <url>https://betoristore.com.ua/products/%D0%BB%D0%BE%D1%84%D0%B5%D1%80%D0%B8-%D1%87%D0%BE%D1%80%D0%BD%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0-copy</url>
         <price>2090.00</price>
         <currencyId>UAH</currencyId>
@@ -6538,7 +6538,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_12-37-28.jpg?v=1787305316</picture>
         <vendor>BETORI</vendor>
         <article>LO40BR</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>BETORI Лофери коричневі натуральна замша жіночі розмір 40</name_ua>
         <name>BETORI Лофери коричневі натуральна замша жіночі розмір 40</name>
         <description_ua><![CDATA[Нова колекція лоферів🤎Позачасова база, яка легко поєднується з будь-яким гардеробом. Мінімалістичний дизайн, комфорт і стиль на кожен день. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 2090 грн]]></description_ua>
