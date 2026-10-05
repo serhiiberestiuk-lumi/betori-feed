@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-05 11:53">
+<yml_catalog date="2026-10-05 13:53">
   <shop>
     <name>BETORI</name>
     <company>BETORI Store</company>
@@ -6976,7 +6976,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_13-08-00.jpg?v=1787307251</picture>
         <vendor>BETORI</vendor>
         <article>MOC37LBR</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>BETORI Мокасини світло-коричневі натуральна замша жіночі розмір 37</name_ua>
         <name>BETORI Мокасини світло-коричневі натуральна замша жіночі розмір 37</name>
         <description_ua><![CDATA[Трендові мокасини з китицями🤎Легкі, лаконічні та універсальні. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 1850 грн]]></description_ua>
@@ -10773,7 +10773,7 @@
         <description><![CDATA[Трендові вкорочені козаки у натуральній шкірі❤️🔥Зручна та стильна модель вдало доповнить ваші образи. • розміри: 35-41 (розмір в розмір)• ціна: 2950 грн• матеріал: натуральна шкіра, матеріал підкладки: байка• висота підборів: 5 см]]></description>
         <param name="Розмір">37</param>
       </offer>
-      <offer id="49289943285860" available="false">
+      <offer id="49289943285860" available="true">
         <url>https://betoristore.com.ua/products/%D0%BA%D0%BE%D0%B7%D0%B0%D0%BA%D0%B8-%D1%88%D0%BA%D1%96%D1%80%D1%8F%D0%BD%D1%96-%D1%87%D0%BE%D1%80%D0%BD%D1%96</url>
         <price>2950.00</price>
         <currencyId>UAH</currencyId>
@@ -10782,7 +10782,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1116.jpg?v=1789736889</picture>
         <vendor>BETORI</vendor>
         <article>KOZBL38</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Козаки шкіряні чорні розмір 38</name_ua>
         <name>Козаки шкіряні чорні розмір 38</name>
         <description_ua><![CDATA[Трендові вкорочені козаки у натуральній шкірі❤️🔥Зручна та стильна модель вдало доповнить ваші образи. • розміри: 35-41 (розмір в розмір)• ціна: 2950 грн• матеріал: натуральна шкіра, матеріал підкладки: байка• висота підборів: 5 см]]></description_ua>
@@ -10814,7 +10814,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1116.jpg?v=1789736889</picture>
         <vendor>BETORI</vendor>
         <article>KOZBL40</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Козаки шкіряні чорні розмір 40</name_ua>
         <name>Козаки шкіряні чорні розмір 40</name>
         <description_ua><![CDATA[Трендові вкорочені козаки у натуральній шкірі❤️🔥Зручна та стильна модель вдало доповнить ваші образи. • розміри: 35-41 (розмір в розмір)• ціна: 2950 грн• матеріал: натуральна шкіра, матеріал підкладки: байка• висота підборів: 5 см]]></description_ua>
@@ -11108,7 +11108,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1040.jpg?v=1789313153</picture>
         <vendor>BETORI</vendor>
         <article>LOFCL37</article>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Лофери класичні чорні (нат. шкіра) розмір 37</name_ua>
         <name>Лофери класичні чорні (нат. шкіра) розмір 37</name>
         <description_ua><![CDATA[Ідеальні лофери - знайдено!🔥Виготовлені з натуральної шкіри.Матеріал чудово тримає форму і при тому не твердий, що гарантує ніжкам комфорт • розміри: 35-41 (розмір в розмір)• матеріал: натуральна шкіра• ціна: 2200 грн]]></description_ua>
@@ -11126,7 +11126,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1040.jpg?v=1789313153</picture>
         <vendor>BETORI</vendor>
         <article>LOFCL38</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Лофери класичні чорні (нат. шкіра) розмір 38</name_ua>
         <name>Лофери класичні чорні (нат. шкіра) розмір 38</name>
         <description_ua><![CDATA[Ідеальні лофери - знайдено!🔥Виготовлені з натуральної шкіри.Матеріал чудово тримає форму і при тому не твердий, що гарантує ніжкам комфорт • розміри: 35-41 (розмір в розмір)• матеріал: натуральна шкіра• ціна: 2200 грн]]></description_ua>
