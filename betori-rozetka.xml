@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-05 17:53">
+<yml_catalog date="2026-10-05 19:53">
   <shop>
     <name>BETORI</name>
     <company>BETORI Store</company>
@@ -3549,7 +3549,7 @@
         <description><![CDATA[Завищені кросівки у стилі JordanЦе однозначно одна з найпопулярніших моделей😍І ми розуміємо чому! Вони комфортні, стильні і відповідать останнім тенденціям.Ви не захочете їх знімати🤫 Матеріал: еко шкіраРозмір в розмір]]></description>
         <param name="Розмір">39</param>
       </offer>
-      <offer id="47330290008164" available="true">
+      <offer id="47330290008164" available="false">
         <url>https://betoristore.com.ua/products/%D0%BA%D1%80%D0%BE%D1%81%D1%96%D0%B2%D0%BA%D0%B8-jordan-%D0%B1%D1%96%D0%BB%D1%96-%D0%B7-%D1%81%D1%96%D1%80%D0%B8%D0%BC</url>
         <price>1085.00</price>
         <currencyId>UAH</currencyId>
@@ -3560,7 +3560,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_3759.jpg?v=1763242296</picture>
         <vendor>BETORI</vendor>
         <article>SNJOWG40</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>BETORI Кросівки білі з сірим жіночі розмір 40</name_ua>
         <name>BETORI Кросівки білі з сірим жіночі розмір 40</name>
         <description_ua><![CDATA[Завищені кросівки у стилі JordanЦе однозначно одна з найпопулярніших моделей😍І ми розуміємо чому! Вони комфортні, стильні і відповідать останнім тенденціям.Ви не захочете їх знімати🤫 Матеріал: еко шкіраРозмір в розмір]]></description_ua>
@@ -6768,7 +6768,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_12-37-27.jpg?v=1787305071</picture>
         <vendor>BETORI</vendor>
         <article>LO36BLACK</article>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <name_ua>BETORI Лофери чорні натуральна замша жіночі розмір 36</name_ua>
         <name>BETORI Лофери чорні натуральна замша жіночі розмір 36</name>
         <description_ua><![CDATA[Нова колекція лоферів🖤Позачасова база, яка легко поєднується з будь-яким гардеробом. Мінімалістичний дизайн, комфорт і стиль на кожен день. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 2090 грн]]></description_ua>
@@ -11022,7 +11022,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1232.png?v=1789736108</picture>
         <vendor>BETORI</vendor>
         <article>LOFCL39L</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Лофери класичні (нат. лакована шкіра) розмір 39</name_ua>
         <name>Лофери класичні (нат. лакована шкіра) розмір 39</name>
         <description_ua><![CDATA[Ідеальні лофери - знайдено!🔥Виготовлені з натуральної лакованої шкіри.Матеріал чудово тримає форму і при тому не твердий, що гарантує ніжкам комфорт • розміри: 35-41 (розмір в розмір)• матеріал: натуральна лакована шкіра• ціна: 2200 грн]]></description_ua>
