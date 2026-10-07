@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-07 07:54">
+<yml_catalog date="2026-10-07 09:54">
   <shop>
     <name>BETORI</name>
     <company>BETORI Store</company>
@@ -6951,7 +6951,7 @@
         <description><![CDATA[Нова колекція лоферів🖤Позачасова база, яка легко поєднується з будь-яким гардеробом. Мінімалістичний дизайн, комфорт і стиль на кожен день. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна шкіра• ціна: 2090 грн]]></description>
         <param name="Розмір">41</param>
       </offer>
-      <offer id="49047827218532" available="true">
+      <offer id="49047827218532" available="false">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
         <price>1850.00</price>
         <currencyId>UAH</currencyId>
@@ -6960,7 +6960,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_13-08-00.jpg?v=1787307251</picture>
         <vendor>BETORI</vendor>
         <article>MOC36LBR</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>BETORI Мокасини світло-коричневі натуральна замша жіночі розмір 36</name_ua>
         <name>BETORI Мокасини світло-коричневі натуральна замша жіночі розмір 36</name>
         <description_ua><![CDATA[Трендові мокасини з китицями🤎Легкі, лаконічні та універсальні. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 1850 грн]]></description_ua>
@@ -10837,7 +10837,7 @@
         <description><![CDATA[Трендові вкорочені козаки у натуральній шкірі❤️🔥Зручна та стильна модель вдало доповнить ваші образи. • розміри: 35-41 (розмір в розмір)• ціна: 2950 грн• матеріал: натуральна шкіра, матеріал підкладки: байка• висота підборів: 5 см]]></description>
         <param name="Розмір">41</param>
       </offer>
-      <offer id="49289968386148" available="true">
+      <offer id="49289968386148" available="false">
         <url>https://betoristore.com.ua/products/%D0%BA%D0%BE%D0%B7%D0%B0%D0%BA%D0%B8-%D1%88%D0%BA%D1%96%D1%80%D1%8F%D0%BD%D1%96-%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%D0%BD%D1%96</url>
         <price>2950.00</price>
         <currencyId>UAH</currencyId>
@@ -10846,7 +10846,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1832.png?v=1789737620</picture>
         <vendor>BETORI</vendor>
         <article>KOZBR35</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Козаки шкіряні шоколадні розмір 35</name_ua>
         <name>Козаки шкіряні шоколадні розмір 35</name>
         <description_ua><![CDATA[Трендові вкорочені козаки у натуральній шкірі❤️🔥Зручна та стильна модель вдало доповнить ваші образи. • розміри: 35-41 (розмір в розмір)• ціна: 2950 грн• матеріал: натуральна шкіра, матеріал підкладки: байка• висота підборів: 5 см]]></description_ua>
