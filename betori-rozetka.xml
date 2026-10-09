@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-09 15:55">
+<yml_catalog date="2026-10-09 17:55">
   <shop>
     <name>BETORI</name>
     <company>BETORI Store</company>
@@ -2676,7 +2676,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_7338.jpg?v=1747846642</picture>
         <vendor>BETORI</vendor>
         <article>LOFBL37</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>BETORI Класичні лофери з фурнітурою жіночі розмір 37</name_ua>
         <name>BETORI Класичні лофери з фурнітурою жіночі розмір 37</name>
         <description_ua><![CDATA[Стильно доповнять будь-який образ, адже класика завжди актуальна. Матеріал: еко шкіра Розмірність: маломірять на один розмір Висота підошви по пʼяті: 3 см]]></description_ua>
@@ -2693,7 +2693,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_7338.jpg?v=1747846642</picture>
         <vendor>BETORI</vendor>
         <article>LOFBL38</article>
-        <stock_quantity>24</stock_quantity>
+        <stock_quantity>25</stock_quantity>
         <name_ua>BETORI Класичні лофери з фурнітурою жіночі розмір 38</name_ua>
         <name>BETORI Класичні лофери з фурнітурою жіночі розмір 38</name>
         <description_ua><![CDATA[Стильно доповнять будь-який образ, адже класика завжди актуальна. Матеріал: еко шкіра Розмірність: маломірять на один розмір Висота підошви по пʼяті: 3 см]]></description_ua>
@@ -4583,7 +4583,7 @@
         <description><![CDATA[Завищені кросівки у стилі JordanЦе однозначно одна з найпопулярніших моделей😍І ми розуміємо чому! Вони комфортні, стильні і відповідать останнім тенденціям.Ви не захочете їх знімати🤫 Матеріал: еко шкіраРозмір в розмір]]></description>
         <param name="Розмір">39</param>
       </offer>
-      <offer id="47330421637220" available="true">
+      <offer id="47330421637220" available="false">
         <url>https://betoristore.com.ua/products/%D0%BA%D1%80%D0%BE%D1%81%D1%96%D0%B2%D0%BA%D0%B8-%D0%B7%D0%B0%D0%B2%D0%B8%D1%89%D0%B5%D0%BD%D1%96-%D1%87%D0%BE%D1%80%D0%BD%D1%96-jordan</url>
         <price>1085.00</price>
         <currencyId>UAH</currencyId>
@@ -4593,7 +4593,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_3753.jpg?v=1763243285</picture>
         <vendor>BETORI</vendor>
         <article>SNJOBL40</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>BETORI Кросівки завищені чорні жіночі розмір 40</name_ua>
         <name>BETORI Кросівки завищені чорні жіночі розмір 40</name>
         <description_ua><![CDATA[Завищені кросівки у стилі JordanЦе однозначно одна з найпопулярніших моделей😍І ми розуміємо чому! Вони комфортні, стильні і відповідать останнім тенденціям.Ви не захочете їх знімати🤫 Матеріал: еко шкіраРозмір в розмір]]></description_ua>
@@ -11496,7 +11496,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1096_a8703bdd-31a0-4fe1-a270-3813a66cccbd.jpg?v=1789323365</picture>
         <vendor>BETORI</vendor>
         <article>CHEBLBR39</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Челсі чорні з коричневим контуром (натуральна шкіра) розмір 39</name_ua>
         <name>Челсі чорні з коричневим контуром (натуральна шкіра) розмір 39</name>
         <description_ua><![CDATA[Модель створена на зручній колодці з додатковим простором у носковій частині, що забезпечує максимальний комфорт навіть під час тривалого носіння.Завдяки розширеному носочку взуття чудово підходить для будь-якої форми стопи. • розміри: 35-41 (розмір в розмір)• ціна: 2800 грн• матеріал: натуральна шкіра, матеріал підкладки: байка]]></description_ua>
