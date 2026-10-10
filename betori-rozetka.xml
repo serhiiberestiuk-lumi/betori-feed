@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-10 13:56">
+<yml_catalog date="2026-10-10 15:56">
   <shop>
     <name>BETORI</name>
     <company>BETORI Store</company>
@@ -6832,7 +6832,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_12-37-27.jpg?v=1787305071</picture>
         <vendor>BETORI</vendor>
         <article>LO40BLACK</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>BETORI Лофери чорні натуральна замша жіночі розмір 40</name_ua>
         <name>BETORI Лофери чорні натуральна замша жіночі розмір 40</name>
         <description_ua><![CDATA[Нова колекція лоферів🖤Позачасова база, яка легко поєднується з будь-яким гардеробом. Мінімалістичний дизайн, комфорт і стиль на кожен день. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 2090 грн]]></description_ua>
@@ -6944,7 +6944,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_12-33-51.jpg?v=1787304853</picture>
         <vendor>BETORI</vendor>
         <article>LOF41BLACK</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>BETORI Лофери чорні натуральна шкіра жіночі розмір 41</name_ua>
         <name>BETORI Лофери чорні натуральна шкіра жіночі розмір 41</name>
         <description_ua><![CDATA[Нова колекція лоферів🖤Позачасова база, яка легко поєднується з будь-яким гардеробом. Мінімалістичний дизайн, комфорт і стиль на кожен день. • розміри: 36-41 (розмір в розмір)• матеріал: натуральна шкіра• ціна: 2090 грн]]></description_ua>
@@ -10757,7 +10757,7 @@
         <description><![CDATA[Трендові вкорочені козаки у натуральній шкірі❤️🔥Зручна та стильна модель вдало доповнить ваші образи. • розміри: 35-41 (розмір в розмір)• ціна: 2950 грн• матеріал: натуральна шкіра, матеріал підкладки: байка• висота підборів: 5 см]]></description>
         <param name="Розмір">36</param>
       </offer>
-      <offer id="49289943253092" available="false">
+      <offer id="49289943253092" available="true">
         <url>https://betoristore.com.ua/products/%D0%BA%D0%BE%D0%B7%D0%B0%D0%BA%D0%B8-%D1%88%D0%BA%D1%96%D1%80%D1%8F%D0%BD%D1%96-%D1%87%D0%BE%D1%80%D0%BD%D1%96</url>
         <price>2950.00</price>
         <currencyId>UAH</currencyId>
@@ -10766,7 +10766,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1116.jpg?v=1789736889</picture>
         <vendor>BETORI</vendor>
         <article>KOZBL37</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Козаки шкіряні чорні розмір 37</name_ua>
         <name>Козаки шкіряні чорні розмір 37</name>
         <description_ua><![CDATA[Трендові вкорочені козаки у натуральній шкірі❤️🔥Зручна та стильна модель вдало доповнить ваші образи. • розміри: 35-41 (розмір в розмір)• ціна: 2950 грн• матеріал: натуральна шкіра, матеріал підкладки: байка• висота підборів: 5 см]]></description_ua>
@@ -10926,7 +10926,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1832.png?v=1789737620</picture>
         <vendor>BETORI</vendor>
         <article>KOZBR40</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Козаки шкіряні шоколадні розмір 40</name_ua>
         <name>Козаки шкіряні шоколадні розмір 40</name>
         <description_ua><![CDATA[Трендові вкорочені козаки у натуральній шкірі❤️🔥Зручна та стильна модель вдало доповнить ваші образи. • розміри: 35-41 (розмір в розмір)• ціна: 2950 грн• матеріал: натуральна шкіра, матеріал підкладки: байка• висота підборів: 5 см]]></description_ua>
