@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-15 09:59">
+<yml_catalog date="2026-10-15 11:59">
   <shop>
     <name>BETORI</name>
     <company>BETORI Store</company>
@@ -2123,7 +2123,7 @@
       </offer>
       <offer id="47339979341924" available="true">
         <url>https://betoristore.com.ua/products/%D0%B1%D0%BE%D1%82%D1%84%D0%BE%D1%80%D1%82%D0%B8-%D0%BD%D0%B0-%D0%B3%D1%80%D1%83%D0%B1%D1%96%D0%B9-%D0%BF%D1%96%D0%B4%D0%BE%D1%88%D0%B2%D1%96</url>
-        <price>2450.00</price>
+        <price>1960.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_3854.jpg?v=1763379795</picture>
@@ -2140,7 +2140,7 @@
       </offer>
       <offer id="47339979374692" available="true">
         <url>https://betoristore.com.ua/products/%D0%B1%D0%BE%D1%82%D1%84%D0%BE%D1%80%D1%82%D0%B8-%D0%BD%D0%B0-%D0%B3%D1%80%D1%83%D0%B1%D1%96%D0%B9-%D0%BF%D1%96%D0%B4%D0%BE%D1%88%D0%B2%D1%96</url>
-        <price>2450.00</price>
+        <price>1960.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_3854.jpg?v=1763379795</picture>
@@ -2157,7 +2157,7 @@
       </offer>
       <offer id="47339979407460" available="false">
         <url>https://betoristore.com.ua/products/%D0%B1%D0%BE%D1%82%D1%84%D0%BE%D1%80%D1%82%D0%B8-%D0%BD%D0%B0-%D0%B3%D1%80%D1%83%D0%B1%D1%96%D0%B9-%D0%BF%D1%96%D0%B4%D0%BE%D1%88%D0%B2%D1%96</url>
-        <price>2450.00</price>
+        <price>1960.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_3854.jpg?v=1763379795</picture>
@@ -2174,7 +2174,7 @@
       </offer>
       <offer id="47339979440228" available="true">
         <url>https://betoristore.com.ua/products/%D0%B1%D0%BE%D1%82%D1%84%D0%BE%D1%80%D1%82%D0%B8-%D0%BD%D0%B0-%D0%B3%D1%80%D1%83%D0%B1%D1%96%D0%B9-%D0%BF%D1%96%D0%B4%D0%BE%D1%88%D0%B2%D1%96</url>
-        <price>2450.00</price>
+        <price>1960.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_3854.jpg?v=1763379795</picture>
@@ -2191,7 +2191,7 @@
       </offer>
       <offer id="47339979472996" available="true">
         <url>https://betoristore.com.ua/products/%D0%B1%D0%BE%D1%82%D1%84%D0%BE%D1%80%D1%82%D0%B8-%D0%BD%D0%B0-%D0%B3%D1%80%D1%83%D0%B1%D1%96%D0%B9-%D0%BF%D1%96%D0%B4%D0%BE%D1%88%D0%B2%D1%96</url>
-        <price>2450.00</price>
+        <price>1960.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_3854.jpg?v=1763379795</picture>
@@ -2208,7 +2208,7 @@
       </offer>
       <offer id="47339979505764" available="false">
         <url>https://betoristore.com.ua/products/%D0%B1%D0%BE%D1%82%D1%84%D0%BE%D1%80%D1%82%D0%B8-%D0%BD%D0%B0-%D0%B3%D1%80%D1%83%D0%B1%D1%96%D0%B9-%D0%BF%D1%96%D0%B4%D0%BE%D1%88%D0%B2%D1%96</url>
-        <price>2450.00</price>
+        <price>1960.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>6</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_3854.jpg?v=1763379795</picture>
@@ -6953,7 +6953,7 @@
       </offer>
       <offer id="49047827218532" available="false">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_13-13-52.jpg?v=1787307251</picture>
@@ -6969,7 +6969,7 @@
       </offer>
       <offer id="49047827251300" available="true">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_13-13-52.jpg?v=1787307251</picture>
@@ -6985,7 +6985,7 @@
       </offer>
       <offer id="49047827284068" available="true">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_13-13-52.jpg?v=1787307251</picture>
@@ -7001,7 +7001,7 @@
       </offer>
       <offer id="49047827316836" available="true">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_13-13-52.jpg?v=1787307251</picture>
@@ -7017,7 +7017,7 @@
       </offer>
       <offer id="49047827349604" available="true">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_13-13-52.jpg?v=1787307251</picture>
@@ -7033,7 +7033,7 @@
       </offer>
       <offer id="49047827382372" available="false">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_13-13-52.jpg?v=1787307251</picture>
@@ -7049,7 +7049,7 @@
       </offer>
       <offer id="49047742087268" available="false">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%82%D0%B5%D0%BC%D0%BD%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_12-55-38.jpg?v=1787306902</picture>
@@ -7065,7 +7065,7 @@
       </offer>
       <offer id="49047742120036" available="false">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%82%D0%B5%D0%BC%D0%BD%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_12-55-38.jpg?v=1787306902</picture>
@@ -7081,7 +7081,7 @@
       </offer>
       <offer id="49047742152804" available="false">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%82%D0%B5%D0%BC%D0%BD%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_12-55-38.jpg?v=1787306902</picture>
@@ -7097,7 +7097,7 @@
       </offer>
       <offer id="49047742185572" available="true">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%82%D0%B5%D0%BC%D0%BD%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_12-55-38.jpg?v=1787306902</picture>
@@ -7113,7 +7113,7 @@
       </offer>
       <offer id="49047742218340" available="false">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%82%D0%B5%D0%BC%D0%BD%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_12-55-38.jpg?v=1787306902</picture>
@@ -7129,7 +7129,7 @@
       </offer>
       <offer id="49047742251108" available="false">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%82%D0%B5%D0%BC%D0%BD%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_12-55-38.jpg?v=1787306902</picture>
@@ -7145,7 +7145,7 @@
       </offer>
       <offer id="49047354605668" available="false">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%87%D0%BE%D1%80%D0%BD%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_10-49-12.jpg?v=1787306565</picture>
@@ -7161,7 +7161,7 @@
       </offer>
       <offer id="49047354638436" available="true">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%87%D0%BE%D1%80%D0%BD%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_10-49-12.jpg?v=1787306565</picture>
@@ -7177,7 +7177,7 @@
       </offer>
       <offer id="49047354671204" available="true">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%87%D0%BE%D1%80%D0%BD%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_10-49-12.jpg?v=1787306565</picture>
@@ -7193,7 +7193,7 @@
       </offer>
       <offer id="49047354703972" available="true">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%87%D0%BE%D1%80%D0%BD%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_10-49-12.jpg?v=1787306565</picture>
@@ -7209,7 +7209,7 @@
       </offer>
       <offer id="49047354736740" available="true">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%87%D0%BE%D1%80%D0%BD%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_10-49-12.jpg?v=1787306565</picture>
@@ -7225,7 +7225,7 @@
       </offer>
       <offer id="49047354769508" available="false">
         <url>https://betoristore.com.ua/products/%D0%BC%D0%BE%D0%BA%D0%B0%D1%81%D0%B8%D0%BD%D0%B8-%D1%87%D0%BE%D1%80%D0%BD%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
-        <price>1850.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>9</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-08-21_10-49-12.jpg?v=1787306565</picture>
