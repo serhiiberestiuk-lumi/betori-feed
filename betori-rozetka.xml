@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-16 16:00">
+<yml_catalog date="2026-10-16 18:00">
   <shop>
     <name>BETORI</name>
     <company>BETORI Store</company>
@@ -11267,7 +11267,7 @@
         <description><![CDATA[М’яка та легка замша подарує ніжкам максимальний комфорт, а акцентна фурнітура додасть образу шарму✨ • розміри: 35-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 2200 грн]]></description>
         <param name="Розмір">39</param>
       </offer>
-      <offer id="49248556810340" available="false">
+      <offer id="49248556810340" available="true">
         <url>https://betoristore.com.ua/products/%D0%BB%D0%BE%D1%84%D0%B5%D1%80%D0%B8-%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4-%D0%BD%D0%B0%D1%82-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
         <price>1980.00</price>
         <currencyId>UAH</currencyId>
@@ -11276,7 +11276,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_0947.jpg?v=1789321581</picture>
         <vendor>BETORI</vendor>
         <article>LOFZB40</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Лофери шоколад (нат.замша) розмір 40</name_ua>
         <name>Лофери шоколад (нат.замша) розмір 40</name>
         <description_ua><![CDATA[М’яка та легка замша подарує ніжкам максимальний комфорт, а акцентна фурнітура додасть образу шарму✨ • розміри: 35-41 (розмір в розмір)• матеріал: натуральна замша• ціна: 2200 грн]]></description_ua>
