@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-21 18:03">
+<yml_catalog date="2026-10-21 20:03">
   <shop>
     <name>BETORI</name>
     <company>BETORI Store</company>
@@ -6098,7 +6098,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_5795.jpg?v=1744189356</picture>
         <vendor>BETORI</vendor>
         <article>LOBLV39</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>BETORI Лофери класичні замшеві жіночі розмір 39</name_ua>
         <name>BETORI Лофери класичні замшеві жіночі розмір 39</name>
         <description_ua><![CDATA[Мінімалістичний дизайн, що завжди актуальний. Мʼякий задник забезпечить вашим ніжкам комфорт та зручність. Розміри: 36-41 Розмір в розмір Матеріал: еко замш Ціна: 1650 грн]]></description_ua>
@@ -10782,7 +10782,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1116.jpg?v=1789736889</picture>
         <vendor>BETORI</vendor>
         <article>KOZBL38</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Козаки шкіряні чорні розмір 38</name_ua>
         <name>Козаки шкіряні чорні розмір 38</name>
         <description_ua><![CDATA[Трендові вкорочені козаки у натуральній шкірі❤️🔥Зручна та стильна модель вдало доповнить ваші образи. • розміри: 35-41 (розмір в розмір)• ціна: 2950 грн• матеріал: натуральна шкіра, матеріал підкладки: байка• висота підборів: 5 см]]></description_ua>
@@ -10830,7 +10830,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1116.jpg?v=1789736889</picture>
         <vendor>BETORI</vendor>
         <article>KOZBL41</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Козаки шкіряні чорні розмір 41</name_ua>
         <name>Козаки шкіряні чорні розмір 41</name>
         <description_ua><![CDATA[Трендові вкорочені козаки у натуральній шкірі❤️🔥Зручна та стильна модель вдало доповнить ваші образи. • розміри: 35-41 (розмір в розмір)• ціна: 2950 грн• матеріал: натуральна шкіра, матеріал підкладки: байка• висота підборів: 5 см]]></description_ua>
@@ -10885,7 +10885,7 @@
         <description><![CDATA[Трендові вкорочені козаки у натуральній шкірі❤️🔥Зручна та стильна модель вдало доповнить ваші образи. • розміри: 35-41 (розмір в розмір)• ціна: 2950 грн• матеріал: натуральна шкіра, матеріал підкладки: байка• висота підборів: 5 см]]></description>
         <param name="Розмір">37</param>
       </offer>
-      <offer id="49289968484452" available="false">
+      <offer id="49289968484452" available="true">
         <url>https://betoristore.com.ua/products/%D0%BA%D0%BE%D0%B7%D0%B0%D0%BA%D0%B8-%D1%88%D0%BA%D1%96%D1%80%D1%8F%D0%BD%D1%96-%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%D0%BD%D1%96</url>
         <price>2950.00</price>
         <currencyId>UAH</currencyId>
@@ -10894,7 +10894,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1832.png?v=1789737620</picture>
         <vendor>BETORI</vendor>
         <article>KOZBR38</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Козаки шкіряні шоколадні розмір 38</name_ua>
         <name>Козаки шкіряні шоколадні розмір 38</name>
         <description_ua><![CDATA[Трендові вкорочені козаки у натуральній шкірі❤️🔥Зручна та стильна модель вдало доповнить ваші образи. • розміри: 35-41 (розмір в розмір)• ціна: 2950 грн• матеріал: натуральна шкіра, матеріал підкладки: байка• висота підборів: 5 см]]></description_ua>
@@ -11581,7 +11581,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1101.jpg?v=1789323673</picture>
         <vendor>BETORI</vendor>
         <article>CHEBROW37</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Челсі шоколадні (натуральна шкіра) розмір 37</name_ua>
         <name>Челсі шоколадні (натуральна шкіра) розмір 37</name>
         <description_ua><![CDATA[Модель створена на зручній колодці з додатковим простором у носковій частині, що забезпечує максимальний комфорт навіть під час тривалого носіння.Завдяки розширеному носочку взуття чудово підходить для будь-якої форми стопи. • розміри: 35-41 (розмір в розмір)• ціна: 2800 грн• матеріал: натуральна шкіра, матеріал підкладки: байка• висота по п'яті: 5 см• висота загалом: 23 см]]></description_ua>
