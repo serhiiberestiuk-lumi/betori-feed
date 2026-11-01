@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-01 13:10">
+<yml_catalog date="2026-11-01 15:10">
   <shop>
     <name>BETORI</name>
     <company>BETORI Store</company>
@@ -4491,7 +4491,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_3751.jpg?v=1763242874</picture>
         <vendor>BETORI</vendor>
         <article>SNJOWH40</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>BETORI Кросівки завищені білі жіночі розмір 40</name_ua>
         <name>BETORI Кросівки завищені білі жіночі розмір 40</name>
         <description_ua><![CDATA[Завищені кросівки у стилі JordanЦе однозначно одна з найпопулярніших моделей😍І ми розуміємо чому! Вони комфортні, стильні і відповідать останнім тенденціям.Ви не захочете їх знімати🤫 Матеріал: еко шкіраРозмір в розмір]]></description_ua>
@@ -8598,7 +8598,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/2024-12-12_15.02.36.jpg?v=1763572409</picture>
         <vendor>BETORI</vendor>
         <article>UGP40BL</article>
-        <stock_quantity>76</stock_quantity>
+        <stock_quantity>75</stock_quantity>
         <name_ua>BETORI Угги висока платформа чорні жіночі розмір 40</name_ua>
         <name>BETORI Угги висока платформа чорні жіночі розмір 40</name>
         <description_ua><![CDATA[Теплі та зручні уггі - ідеальний варіант взуття на холодну осінь та зиму. Основний матеріал: еко-замш + еко-хутроПідошва: філайт (доволі легка та гнучка)Висота підошви: 4 смВисота загалом (з підошвою): 15 смБез написів та логотипівРозмір в розмір]]></description_ua>
@@ -10994,14 +10994,14 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1040.jpg?v=1789313153</picture>
         <vendor>BETORI</vendor>
         <article>LOFCL36</article>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>Лофери класичні чорні (нат. шкіра) розмір 36</name_ua>
         <name>Лофери класичні чорні (нат. шкіра) розмір 36</name>
         <description_ua><![CDATA[Ідеальні лофери - знайдено!🔥Виготовлені з натуральної шкіри.Матеріал чудово тримає форму і при тому не твердий, що гарантує ніжкам комфорт • розміри: 35-41 (розмір в розмір)• матеріал: натуральна шкіра• ціна: 2200 грн]]></description_ua>
         <description><![CDATA[Ідеальні лофери - знайдено!🔥Виготовлені з натуральної шкіри.Матеріал чудово тримає форму і при тому не твердий, що гарантує ніжкам комфорт • розміри: 35-41 (розмір в розмір)• матеріал: натуральна шкіра• ціна: 2200 грн]]></description>
         <param name="Розмір">36</param>
       </offer>
-      <offer id="49248350240868" available="false">
+      <offer id="49248350240868" available="true">
         <url>https://betoristore.com.ua/products/%D0%BB%D0%BE%D1%84%D0%B5%D1%80%D0%B8-%D0%BA%D0%BB%D0%B0%D1%81%D0%B8%D1%87%D0%BD%D1%96-%D1%87%D0%BE%D1%80%D0%BD%D1%96-%D0%BD%D0%B0%D1%82-%D1%88%D0%BA%D1%96%D1%80%D0%B0</url>
         <price>2200.00</price>
         <currencyId>UAH</currencyId>
@@ -11012,7 +11012,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1040.jpg?v=1789313153</picture>
         <vendor>BETORI</vendor>
         <article>LOFCL37</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Лофери класичні чорні (нат. шкіра) розмір 37</name_ua>
         <name>Лофери класичні чорні (нат. шкіра) розмір 37</name>
         <description_ua><![CDATA[Ідеальні лофери - знайдено!🔥Виготовлені з натуральної шкіри.Матеріал чудово тримає форму і при тому не твердий, що гарантує ніжкам комфорт • розміри: 35-41 (розмір в розмір)• матеріал: натуральна шкіра• ціна: 2200 грн]]></description_ua>
