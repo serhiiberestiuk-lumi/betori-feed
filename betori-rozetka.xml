@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-02 23:11">
+<yml_catalog date="2026-11-03 01:11">
   <shop>
     <name>BETORI</name>
     <company>BETORI Store</company>
@@ -2676,7 +2676,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_7338.jpg?v=1747846642</picture>
         <vendor>BETORI</vendor>
         <article>LOFBL37</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <name_ua>BETORI Класичні лофери з фурнітурою жіночі розмір 37</name_ua>
         <name>BETORI Класичні лофери з фурнітурою жіночі розмір 37</name>
         <description_ua><![CDATA[Стильно доповнять будь-який образ, адже класика завжди актуальна. Матеріал: еко шкіра Розмірність: маломірять на один розмір Висота підошви по пʼяті: 3 см]]></description_ua>
@@ -2693,7 +2693,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_7338.jpg?v=1747846642</picture>
         <vendor>BETORI</vendor>
         <article>LOFBL38</article>
-        <stock_quantity>24</stock_quantity>
+        <stock_quantity>23</stock_quantity>
         <name_ua>BETORI Класичні лофери з фурнітурою жіночі розмір 38</name_ua>
         <name>BETORI Класичні лофери з фурнітурою жіночі розмір 38</name>
         <description_ua><![CDATA[Стильно доповнять будь-який образ, адже класика завжди актуальна. Матеріал: еко шкіра Розмірність: маломірять на один розмір Висота підошви по пʼяті: 3 см]]></description_ua>
@@ -5546,7 +5546,7 @@
         <description><![CDATA[За допомогою фіксаторів-липучок регулюється ширина підйому. Матеріал: еко шкіра + взуттєвий текстиль Кольори: чорний, сірий, бежевий Розміри: 36-41 Розмір в розмір]]></description>
         <param name="Розмір">36</param>
       </offer>
-      <offer id="46952341110884" available="false">
+      <offer id="46952341110884" available="true">
         <url>https://betoristore.com.ua/products/%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D1%8C%D0%BA%D1%96-%D0%B1%D0%B5%D0%B6%D0%B5%D0%B2%D1%96-%D1%82%D0%B0%D0%BF%D1%83%D0%BB%D1%96-copy</url>
         <price>825.00</price>
         <currencyId>UAH</currencyId>
@@ -5556,7 +5556,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1946.jpg?v=1759133918</picture>
         <vendor>BETORI</vendor>
         <article>SL37LGR</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>BETORI Легенькі сірі слайдери жіночі розмір 37</name_ua>
         <name>BETORI Легенькі сірі слайдери жіночі розмір 37</name>
         <description_ua><![CDATA[За допомогою фіксаторів-липучок регулюється ширина підйому. Матеріал: еко шкіра + взуттєвий текстиль Кольори: чорний, сірий, бежевий Розміри: 36-41 Розмір в розмір]]></description_ua>
