@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-06 17:34">
+<yml_catalog date="2026-11-06 19:34">
   <shop>
     <name>BETORI</name>
     <company>BETORI Store</company>
@@ -11407,7 +11407,7 @@
         <description><![CDATA[Подаруй собі комфорт і тепло в ці холодні дні разом із класичними угами✨ Основний матеріал: натуральна замша + еко хутроБез написів та логотипівРозмір в розмір]]></description>
         <param name="Розмір">41</param>
       </offer>
-      <offer id="67937761689700" available="true">
+      <offer id="67937761689700" available="false">
         <url>https://betoristore.com.ua/products/%D1%83%D0%B3%D0%B8-%D1%85%D0%B0%D0%BA%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
         <price>1990.00</price>
         <currencyId>UAH</currencyId>
@@ -11417,7 +11417,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_4916.jpg?v=1793605032</picture>
         <vendor>BETORI</vendor>
         <article>UGG36GR</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Уги хакі натуральна замша розмір 36</name_ua>
         <name>Уги хакі натуральна замша розмір 36</name>
         <description_ua><![CDATA[Подаруй собі комфорт і тепло в ці холодні дні разом із класичними угами✨ Основний матеріал: натуральна замша + еко хутроБез написів та логотипівРозмір в розмір]]></description_ua>
@@ -11645,7 +11645,7 @@
         <description><![CDATA[Модель створена на зручній колодці з додатковим простором у носковій частині, що забезпечує максимальний комфорт навіть під час тривалого носіння.Завдяки розширеному носочку взуття чудово підходить для будь-якої форми стопи. • розміри: 35-41 (розмір в розмір)• ціна: 2800 грн• матеріал: натуральна шкіра, матеріал підкладки: байка• висота по п'яті: 5 см• висота загалом: 23 см]]></description>
         <param name="Розмір">36</param>
       </offer>
-      <offer id="49248622575716" available="true">
+      <offer id="49248622575716" available="false">
         <url>https://betoristore.com.ua/products/%D1%87%D0%B5%D0%BB%D1%81%D1%96-%D1%87%D0%BE%D1%80%D0%BD%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D1%88%D0%BA%D1%96%D1%80%D0%B0</url>
         <price>2800.00</price>
         <currencyId>UAH</currencyId>
@@ -11655,7 +11655,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/photo_2026-09-13_21-28-15.jpg?v=1789324123</picture>
         <vendor>BETORI</vendor>
         <article>CHEBL37</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>Челсі чорні (натуральна шкіра) розмір 37</name_ua>
         <name>Челсі чорні (натуральна шкіра) розмір 37</name>
         <description_ua><![CDATA[Модель створена на зручній колодці з додатковим простором у носковій частині, що забезпечує максимальний комфорт навіть під час тривалого носіння.Завдяки розширеному носочку взуття чудово підходить для будь-якої форми стопи. • розміри: 35-41 (розмір в розмір)• ціна: 2800 грн• матеріал: натуральна шкіра, матеріал підкладки: байка• висота по п'яті: 5 см• висота загалом: 23 см]]></description_ua>
