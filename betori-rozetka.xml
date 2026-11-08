@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-08 15:36">
+<yml_catalog date="2026-11-08 17:36">
   <shop>
     <name>BETORI</name>
     <company>BETORI Store</company>
@@ -10894,7 +10894,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_1232.png?v=1789736108</picture>
         <vendor>BETORI</vendor>
         <article>LOFCL37L</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <name_ua>Лофери класичні (нат. лакована шкіра) розмір 37</name_ua>
         <name>Лофери класичні (нат. лакована шкіра) розмір 37</name>
         <description_ua><![CDATA[Ідеальні лофери - знайдено!🔥Виготовлені з натуральної лакованої шкіри.Матеріал чудово тримає форму і при тому не твердий, що гарантує ніжкам комфорт • розміри: 35-41 (розмір в розмір)• матеріал: натуральна лакована шкіра• ціна: 2200 грн]]></description_ua>
@@ -11247,7 +11247,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_4842.heic?v=1793605430</picture>
         <vendor>BETORI</vendor>
         <article>UGG38BR</article>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <name_ua>Уги коричневі натуральна замша розмір 38</name_ua>
         <name>Уги коричневі натуральна замша розмір 38</name>
         <description_ua><![CDATA[Подаруй собі комфорт і тепло в ці холодні дні разом із класичними угами✨ Основний матеріал: натуральна замша + еко хутроБез написів та логотипівРозмір в розмір]]></description_ua>
@@ -11332,7 +11332,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_4922.jpg?v=1793605827</picture>
         <vendor>BETORI</vendor>
         <article>UGG37RE</article>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Уги руді натуральна замша розмір 37</name_ua>
         <name>Уги руді натуральна замша розмір 37</name>
         <description_ua><![CDATA[Подаруй собі комфорт і тепло в ці холодні дні разом із класичними угами✨ Основний матеріал: натуральна замша + еко хутроБез написів та логотипівРозмір в розмір]]></description_ua>
@@ -11407,7 +11407,7 @@
         <description><![CDATA[Подаруй собі комфорт і тепло в ці холодні дні разом із класичними угами✨ Основний матеріал: натуральна замша + еко хутроБез написів та логотипівРозмір в розмір]]></description>
         <param name="Розмір">41</param>
       </offer>
-      <offer id="67937761689700" available="false">
+      <offer id="67937761689700" available="true">
         <url>https://betoristore.com.ua/products/%D1%83%D0%B3%D0%B8-%D1%85%D0%B0%D0%BA%D1%96-%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D1%88%D0%B0</url>
         <price>1990.00</price>
         <currencyId>UAH</currencyId>
@@ -11417,7 +11417,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_4916.jpg?v=1793605032</picture>
         <vendor>BETORI</vendor>
         <article>UGG36GR</article>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <name_ua>Уги хакі натуральна замша розмір 36</name_ua>
         <name>Уги хакі натуральна замша розмір 36</name>
         <description_ua><![CDATA[Подаруй собі комфорт і тепло в ці холодні дні разом із класичними угами✨ Основний матеріал: натуральна замша + еко хутроБез написів та логотипівРозмір в розмір]]></description_ua>
