@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-26 12:48">
+<yml_catalog date="2026-11-26 14:49">
   <shop>
     <name>BETORI</name>
     <company>BETORI Store</company>
@@ -9923,7 +9923,7 @@
       </offer>
       <offer id="47248321609828" available="true">
         <url>https://betoristore.com.ua/products/%D1%87%D0%B5%D0%BB%D1%81%D1%96-%D1%83%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D1%96-%D0%B5%D0%BA%D0%BE-%D1%85%D1%83%D1%82%D1%80%D0%BE%D0%BC</url>
-        <price>1890.00</price>
+        <price>1785.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_5252_58d549b9-b48f-4b70-abd7-dcfbdba9654a.png?v=1762353546</picture>
@@ -9941,7 +9941,7 @@
       </offer>
       <offer id="47248321642596" available="false">
         <url>https://betoristore.com.ua/products/%D1%87%D0%B5%D0%BB%D1%81%D1%96-%D1%83%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D1%96-%D0%B5%D0%BA%D0%BE-%D1%85%D1%83%D1%82%D1%80%D0%BE%D0%BC</url>
-        <price>1890.00</price>
+        <price>1785.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_5252_58d549b9-b48f-4b70-abd7-dcfbdba9654a.png?v=1762353546</picture>
@@ -9957,9 +9957,9 @@
         <description><![CDATA[Є взуття, яке не потрібно представляти заново кожного сезону — воно просто залишається в гардеробі, бо підходить до всього ✨ Матеріал: еко-шкіра | еко-хутроРозмір в розмір]]></description>
         <param name="Розмір">37</param>
       </offer>
-      <offer id="47248321675364" available="true">
+      <offer id="47248321675364" available="false">
         <url>https://betoristore.com.ua/products/%D1%87%D0%B5%D0%BB%D1%81%D1%96-%D1%83%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D1%96-%D0%B5%D0%BA%D0%BE-%D1%85%D1%83%D1%82%D1%80%D0%BE%D0%BC</url>
-        <price>1890.00</price>
+        <price>1785.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_5252_58d549b9-b48f-4b70-abd7-dcfbdba9654a.png?v=1762353546</picture>
@@ -9968,7 +9968,7 @@
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_5258_ae3c2577-9e0e-4af0-96d7-d59da653488f.jpg?v=1762353526</picture>
         <vendor>BETORI</vendor>
         <article>CHBL38</article>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <name_ua>BETORI Челсі утеплені екохутром жіночі розмір 38</name_ua>
         <name>BETORI Челсі утеплені екохутром жіночі розмір 38</name>
         <description_ua><![CDATA[Є взуття, яке не потрібно представляти заново кожного сезону — воно просто залишається в гардеробі, бо підходить до всього ✨ Матеріал: еко-шкіра | еко-хутроРозмір в розмір]]></description_ua>
@@ -9977,7 +9977,7 @@
       </offer>
       <offer id="47248321708132" available="false">
         <url>https://betoristore.com.ua/products/%D1%87%D0%B5%D0%BB%D1%81%D1%96-%D1%83%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D1%96-%D0%B5%D0%BA%D0%BE-%D1%85%D1%83%D1%82%D1%80%D0%BE%D0%BC</url>
-        <price>1890.00</price>
+        <price>1785.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_5252_58d549b9-b48f-4b70-abd7-dcfbdba9654a.png?v=1762353546</picture>
@@ -9995,7 +9995,7 @@
       </offer>
       <offer id="47248321740900" available="false">
         <url>https://betoristore.com.ua/products/%D1%87%D0%B5%D0%BB%D1%81%D1%96-%D1%83%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D1%96-%D0%B5%D0%BA%D0%BE-%D1%85%D1%83%D1%82%D1%80%D0%BE%D0%BC</url>
-        <price>1890.00</price>
+        <price>1785.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_5252_58d549b9-b48f-4b70-abd7-dcfbdba9654a.png?v=1762353546</picture>
@@ -10013,7 +10013,7 @@
       </offer>
       <offer id="47248321773668" available="false">
         <url>https://betoristore.com.ua/products/%D1%87%D0%B5%D0%BB%D1%81%D1%96-%D1%83%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D1%96-%D0%B5%D0%BA%D0%BE-%D1%85%D1%83%D1%82%D1%80%D0%BE%D0%BC</url>
-        <price>1890.00</price>
+        <price>1785.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/IMG_5252_58d549b9-b48f-4b70-abd7-dcfbdba9654a.png?v=1762353546</picture>
@@ -10235,7 +10235,7 @@
       </offer>
       <offer id="44711564902500" available="true">
         <url>https://betoristore.com.ua/products/%D1%87%D0%B5%D1%80%D0%B5%D0%B2%D0%B8%D0%BA%D0%B8-%D0%B7-%D0%BF%D1%80%D1%8F%D0%B6%D0%BA%D0%BE%D1%8E-%D0%BD%D0%B0-%D1%88%D0%BD%D1%83%D1%80%D1%96%D0%B2%D1%86%D1%96</url>
-        <price>1660.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/10-1.jpg?v=1731153503</picture>
@@ -10252,7 +10252,7 @@
       </offer>
       <offer id="44711564935268" available="false">
         <url>https://betoristore.com.ua/products/%D1%87%D0%B5%D1%80%D0%B5%D0%B2%D0%B8%D0%BA%D0%B8-%D0%B7-%D0%BF%D1%80%D1%8F%D0%B6%D0%BA%D0%BE%D1%8E-%D0%BD%D0%B0-%D1%88%D0%BD%D1%83%D1%80%D1%96%D0%B2%D1%86%D1%96</url>
-        <price>1660.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/10-1.jpg?v=1731153503</picture>
@@ -10269,7 +10269,7 @@
       </offer>
       <offer id="44711564968036" available="false">
         <url>https://betoristore.com.ua/products/%D1%87%D0%B5%D1%80%D0%B5%D0%B2%D0%B8%D0%BA%D0%B8-%D0%B7-%D0%BF%D1%80%D1%8F%D0%B6%D0%BA%D0%BE%D1%8E-%D0%BD%D0%B0-%D1%88%D0%BD%D1%83%D1%80%D1%96%D0%B2%D1%86%D1%96</url>
-        <price>1660.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/10-1.jpg?v=1731153503</picture>
@@ -10286,7 +10286,7 @@
       </offer>
       <offer id="44711565000804" available="false">
         <url>https://betoristore.com.ua/products/%D1%87%D0%B5%D1%80%D0%B5%D0%B2%D0%B8%D0%BA%D0%B8-%D0%B7-%D0%BF%D1%80%D1%8F%D0%B6%D0%BA%D0%BE%D1%8E-%D0%BD%D0%B0-%D1%88%D0%BD%D1%83%D1%80%D1%96%D0%B2%D1%86%D1%96</url>
-        <price>1660.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/10-1.jpg?v=1731153503</picture>
@@ -10303,7 +10303,7 @@
       </offer>
       <offer id="44711565033572" available="false">
         <url>https://betoristore.com.ua/products/%D1%87%D0%B5%D1%80%D0%B5%D0%B2%D0%B8%D0%BA%D0%B8-%D0%B7-%D0%BF%D1%80%D1%8F%D0%B6%D0%BA%D0%BE%D1%8E-%D0%BD%D0%B0-%D1%88%D0%BD%D1%83%D1%80%D1%96%D0%B2%D1%86%D1%96</url>
-        <price>1660.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/10-1.jpg?v=1731153503</picture>
@@ -10320,7 +10320,7 @@
       </offer>
       <offer id="44711565066340" available="false">
         <url>https://betoristore.com.ua/products/%D1%87%D0%B5%D1%80%D0%B5%D0%B2%D0%B8%D0%BA%D0%B8-%D0%B7-%D0%BF%D1%80%D1%8F%D0%B6%D0%BA%D0%BE%D1%8E-%D0%BD%D0%B0-%D1%88%D0%BD%D1%83%D1%80%D1%96%D0%B2%D1%86%D1%96</url>
-        <price>1660.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cdn.shopify.com/s/files/1/0673/2559/1652/files/10-1.jpg?v=1731153503</picture>
